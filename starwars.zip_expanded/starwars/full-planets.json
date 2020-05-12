@@ -1,0 +1,421 @@
+[{
+  "_id": {
+    "$oid": "5eb7dfe26ef89806c4f74247"
+  },
+  "name": "Tatooine",
+  "climate": "arid",
+  "terrain": "desert"
+},{
+  "_id": {
+    "$oid": "5eb7dfe26ef89806c4f74248"
+  },
+  "name": "Alderaan",
+  "climate": "temperate",
+  "terrain": "grasslands, mountains"
+},{
+  "_id": {
+    "$oid": "5eb7e28e6ef89806c4f7424b"
+  },
+  "name": "Yavin IV",
+  "climate": "temperate, tropical",
+  "terrain": "jungle, rainforests"
+},{
+  "_id": {
+    "$oid": "5eb7e28e6ef89806c4f7424c"
+  },
+  "name": "Hoth",
+  "climate": "frozen",
+  "terrain": "tundra, ice caves, mountain ranges"
+},{
+  "_id": {
+    "$oid": "5eb7e28e6ef89806c4f7424d"
+  },
+  "name": "Dagobah",
+  "climate": "murky",
+  "terrain": "swamp, jungles"
+},{
+  "_id": {
+    "$oid": "5eb7e28e6ef89806c4f7424e"
+  },
+  "name": "Bespin",
+  "climate": "temperate",
+  "terrain": "gas giant"
+},{
+  "_id": {
+    "$oid": "5eb7e28e6ef89806c4f7424f"
+  },
+  "name": "Endor",
+  "climate": "temperate",
+  "terrain": "forests, mountains, lakes"
+},{
+  "_id": {
+    "$oid": "5eb7e28e6ef89806c4f74250"
+  },
+  "name": "Naboo",
+  "climate": "temperate",
+  "terrain": "grassy hills, swamps, forests, mountains"
+},{
+  "_id": {
+    "$oid": "5eb7e28e6ef89806c4f74251"
+  },
+  "name": "Coruscant",
+  "climate": "temperate",
+  "terrain": "cityscape, mountains"
+},{
+  "_id": {
+    "$oid": "5eb7e28e6ef89806c4f74252"
+  },
+  "name": "Kamino",
+  "climate": "temperate",
+  "terrain": "ocean"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f74253"
+  },
+  "name": "Geonosis",
+  "climate": "temperate, arid",
+  "terrain": "rock, desert, mountain, barren"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f74254"
+  },
+  "name": "Utapau",
+  "climate": "temperate, arid, windy",
+  "terrain": "scrublands, savanna, canyons, sinkholes"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f74255"
+  },
+  "name": "Mustafar",
+  "climate": "hot",
+  "terrain": "volcanoes, lava rivers, mountains, caves"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f74256"
+  },
+  "name": "Kashyyyk",
+  "climate": "tropical",
+  "terrain": "jungle, forests, lakes, rivers"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f74257"
+  },
+  "name": "Polis Massa",
+  "climate": "artificial temperate ",
+  "terrain": "airless asteroid"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f74258"
+  },
+  "name": "Mygeeto",
+  "climate": "frigid",
+  "terrain": "glaciers, mountains, ice canyons"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f74259"
+  },
+  "name": "Felucia",
+  "climate": "hot, humid",
+  "terrain": "fungus forests"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f7425a"
+  },
+  "name": "Cato Neimoidia",
+  "climate": "temperate, moist",
+  "terrain": "mountains, fields, forests, rock arches"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f7425b"
+  },
+  "name": "Saleucami",
+  "climate": "hot",
+  "terrain": "caves, desert, mountains, volcanoes"
+},{
+  "_id": {
+    "$oid": "5eb7e3c76ef89806c4f7425c"
+  },
+  "name": "Stewjon",
+  "climate": "temperate",
+  "terrain": "grass"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f7425d"
+  },
+  "name": "Eriadu",
+  "climate": "polluted",
+  "terrain": "cityscape"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f7425e"
+  },
+  "name": "Corellia",
+  "climate": "temperate",
+  "terrain": "plains, urban, hills, forests"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f7425f"
+  },
+  "name": "Rodia",
+  "climate": "hot",
+  "terrain": "jungles, oceans, urban, swamps"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f74260"
+  },
+  "name": "Nal Hutta",
+  "climate": "temperate",
+  "terrain": "urban, oceans, swamps, bogs"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f74261"
+  },
+  "name": "Dantooine",
+  "climate": "temperate",
+  "terrain": "oceans, savannas, mountains, grasslands"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f74262"
+  },
+  "name": "Bestine IV",
+  "climate": "temperate",
+  "terrain": "rocky islands, oceans"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f74263"
+  },
+  "name": "Ord Mantell",
+  "climate": "temperate",
+  "terrain": "plains, seas, mesas"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f74264"
+  },
+  "name": "unknown",
+  "climate": "unknown",
+  "terrain": "unknown"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f74265"
+  },
+  "name": "Trandosha",
+  "climate": "arid",
+  "terrain": "mountains, seas, grasslands, deserts"
+},{
+  "_id": {
+    "$oid": "5eb7e5826ef89806c4f74266"
+  },
+  "name": "Socorro",
+  "climate": "arid",
+  "terrain": "deserts, mountains"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f74267"
+  },
+  "name": "Mon Cala",
+  "climate": "temperate",
+  "terrain": "oceans, reefs, islands"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f74268"
+  },
+  "name": "Chandrila",
+  "climate": "temperate",
+  "terrain": "plains, forests"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f74269"
+  },
+  "name": "Sullust",
+  "climate": "superheated",
+  "terrain": "mountains, volcanoes, rocky deserts"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f7426a"
+  },
+  "name": "Toydaria",
+  "climate": "temperate",
+  "terrain": "swamps, lakes"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f7426b"
+  },
+  "name": "Malastare",
+  "climate": "arid, temperate, tropical",
+  "terrain": "swamps, deserts, jungles, mountains"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f7426c"
+  },
+  "name": "Dathomir",
+  "climate": "temperate",
+  "terrain": "forests, deserts, savannas"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f7426d"
+  },
+  "name": "Ryloth",
+  "climate": "temperate, arid, subartic",
+  "terrain": "mountains, valleys, deserts, tundra"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f7426e"
+  },
+  "name": "Aleen Minor",
+  "climate": "unknown",
+  "terrain": "unknown"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f7426f"
+  },
+  "name": "Vulpter",
+  "climate": "temperate, artic",
+  "terrain": "urban, barren"
+},{
+  "_id": {
+    "$oid": "5eb7e6926ef89806c4f74270"
+  },
+  "name": "Troiken",
+  "climate": "unknown",
+  "terrain": "desert, tundra, rainforests, mountains"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f74271"
+  },
+  "name": "Tund",
+  "climate": "unknown",
+  "terrain": "barren, ash"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f74272"
+  },
+  "name": "Haruun Kal",
+  "climate": "temperate",
+  "terrain": "toxic cloudsea, plateaus, volcanoes"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f74273"
+  },
+  "name": "Cerea",
+  "climate": "temperate",
+  "terrain": "verdant"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f74274"
+  },
+  "name": "Glee Anselm",
+  "climate": "tropical, temperate",
+  "terrain": "lakes, islands, swamps, seas"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f74275"
+  },
+  "name": "Iridonia",
+  "climate": "unknown",
+  "terrain": "rocky canyons, acid pools"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f74276"
+  },
+  "name": "Tholoth",
+  "climate": "unknown",
+  "terrain": "unknown"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f74277"
+  },
+  "name": "Iktotch",
+  "climate": "arid, rocky, windy",
+  "terrain": "rocky"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f74278"
+  },
+  "name": "Quermia",
+  "climate": "unknown",
+  "terrain": "unknown"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f74279"
+  },
+  "name": "Dorin",
+  "climate": "temperate",
+  "terrain": "unknown"
+},{
+  "_id": {
+    "$oid": "5eb7e7a76ef89806c4f7427a"
+  },
+  "name": "Champala",
+  "climate": "temperate",
+  "terrain": "oceans, rainforests, plateaus"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f7427b"
+  },
+  "name": "Mirial",
+  "climate": "unknown",
+  "terrain": "deserts"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f7427c"
+  },
+  "name": "Serenno",
+  "climate": "unknown",
+  "terrain": "rainforests, rivers, mountains"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f7427d"
+  },
+  "name": "Concord Dawn",
+  "climate": "unknown",
+  "terrain": "jungles, forests, deserts"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f7427e"
+  },
+  "name": "Zolan",
+  "climate": "unknown",
+  "terrain": "unknown"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f7427f"
+  },
+  "name": "Ojom",
+  "climate": "frigid",
+  "terrain": "oceans, glaciers"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f74280"
+  },
+  "name": "Skako",
+  "climate": "temperate",
+  "terrain": "urban, vines"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f74281"
+  },
+  "name": "Muunilinst",
+  "climate": "temperate",
+  "terrain": "plains, forests, hills, mountains"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f74282"
+  },
+  "name": "Shili",
+  "climate": "temperate",
+  "terrain": "cities, savannahs, seas, plains"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f74283"
+  },
+  "name": "Kalee",
+  "climate": "arid, temperate, tropical",
+  "terrain": "rainforests, cliffs, canyons, seas"
+},{
+  "_id": {
+    "$oid": "5eb7e8c76ef89806c4f74284"
+  },
+  "name": "Umbara",
+  "climate": "unknown",
+  "terrain": "unknown"
+}]
